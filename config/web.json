@@ -1,0 +1,15 @@
+{
+  "web_name": "biscuits-forum",
+  "web_mode": "debug",
+  "web_host": "localhost",
+  "web_port": "8080",
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "",
+    "host": "localhost",
+    "port": "3306",
+    "db_name": "biscuits_forum",
+    "charset": "utf8"
+  }
+}
